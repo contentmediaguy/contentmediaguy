@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @contentmediaguy 
+- 👋 Hi, I’m Robert Gil Baptista 
 - 👀 I’m interested in Front-end Web Development, React.js and Visual Design
 - 🌱 I’m currently learning React.js and UI Design
 - 💞️ I’m looking to collaborate on ...
