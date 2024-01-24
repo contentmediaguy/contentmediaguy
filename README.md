@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Robert Gil Baptista 
-- 👀 I’m interested in Front-end Development, React.js and Visual Design
-- 🌱 I’m currently learning React.js and UI Design
+- 👀 I’m interested in Financial Data Analyst
+- 🌱 I’m currently learning SQL, Python and Jupyter Notebook
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
