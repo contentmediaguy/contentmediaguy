@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Robert Gil Baptista 
-- 👀 I’m interested in Financial Data Analyst
+- 👀 I’m interested in Business Intelligence Data Analyst
 - 🌱 I’m currently learning SQL, Python and Jupyter Notebook
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
